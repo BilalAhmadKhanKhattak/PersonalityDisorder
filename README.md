@@ -42,4 +42,4 @@ Not a mission-critical project, but fun and handy for experiments.
 ER
 
 ## License
-
+This project is licensed under the CC BY-NC 4.0 LEGAL CODE Attribution-NonCommercial 4.0 International License - see the LICENSE file for details.
