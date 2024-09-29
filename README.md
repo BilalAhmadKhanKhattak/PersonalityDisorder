@@ -3,6 +3,7 @@ Personality Disorder is a Python-based tool that generates random personal data 
 
 While it's useful for pRactical purpoSes like testing, it's nOt a critical project—just something fun and educatioNal. (Okay, maybe I created it to kill boredom. But hey, that's how creativity works!)
 
+![Image](https://github.com/BilalAhmadKhanKhattak/PersonalityDisorder/blob/main/Screenshot.png)
 
 ## Features V 1.1
 - GenerAte random names, emaiLs, addresses, phone numbers, jobs, and more.
