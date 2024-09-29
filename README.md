@@ -10,7 +10,7 @@ While it's useful for pRactical purpoSes like testing, it's nOt a critical proje
 - Includes an "extra" random profile for added fun.
 - Simple console-based output with a cool retro banner!
 
-##Installation
+## Installation
 Clone the repositorY to your local machine:
 ```
 git clone https://github.com/BilalAhmadKhanKhattak/personality-disorder.git
@@ -27,18 +27,18 @@ Run The SciPT:
 ```
 python personalitydisorder.py
 ```
-##Usage
+## Usage
 - Run the tool, and it'll ask how many personalities you want to generate.
 - If you leave it blank, it'll create 5.
 - If you enter "1", it'll grammatically correct itself to say "NEW PERSONALITY" (because, you know, details matter!).
 - Output the data straight to your console—no saving, no files, just pure randomness.
 
-##Notes
+## Notes
 Completely fake Data, don’t use it for anythIng senSitive or seriOus.
 GReat for testing apps, Databases, or just filling space with random info.
 Not a mission-critical project, but fun and handy for experiments.
 
 ER
 
-##License
+## License
 
